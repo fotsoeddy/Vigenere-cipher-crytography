@@ -1,4 +1,4 @@
-# Vigenere-cipher-crytography
+
 # Vigenere Cipher Encryption
 
 This Python script demonstrates how to encrypt a plaintext using the Vigenere cipher technique. The Vigenere cipher is a method of encrypting alphabetic text by using a keyword and rearranging the letters based on a keyword.
